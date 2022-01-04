@@ -1,1 +1,0 @@
-# beadelaisla.github.io
