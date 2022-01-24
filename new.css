@@ -1,9 +1,32 @@
+<!DOCTYPE Html>
 <html>
-body{
-  background-color: lightyellow;
-}
-h1 {
-  color:red;
-  margin-left: 20px;
-}
+<head>
+<link rel="stylesheet" href= "new.css">
+</head>
+<body>
+<h1> Introduction </h1>
+      Beatrice Dela Isla <br>
+	Bea <br>
+	21 <br>
+	November 29, 2000<br>
+	St. Andrew’s School Paranaque<br>
+	Bachelor of Multimedia Arts<br>
+	Yes. Manila Ecclesiastical Province School Systems Association Subsidy [U] (35%)<br>
+	Second year <br>
+	Yes. I want to improve my photography and graphic design skills.<br>
+	I.T. Experience:<br>
+		- Used html and notepad++ <br>
+		- Made an application prototype for UIUX Subject<br>
+		- Studied the basics of flowcharting<br>
+	Browsing the net, playing the guitar, playing games<br>
+	Become a millionaire before turning 30, Travel the world and shoot as many photos and videos that I can share to the world<br> 
+	The basics of it concepts<br>
+	<p>How to create my own website so that I can store my portfolio there</p>
+
+<h1> My first javaScript </h1>
+<button type="button">
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+<p id= "demo"> </p>
+</body>
 </html>
